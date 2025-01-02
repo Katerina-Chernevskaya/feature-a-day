@@ -1,10 +1,10 @@
 # Feature-a-Day with Copilot Studio Monthly Mastery 
 
-![img](./Feature-a-Day-January-Edition.png)
+![img](./a-feature-a-day.png)
 
-Welcome to the repository for the "Feature-a-Day with Copilot Studio" series. Here, you will find all 31 installments of our January edition, including each day's feature exploration. Each PDF is a snapshot of learning, ideal for anyone looking to enhance their understanding and use of Copilot Studio.
+Welcome to the repository for the "A Feature-a-Day with Copilot Studio" series. Here, you will find all installments of our January and December editions, including each day's feature exploration. Each PDF is a snapshot of learning, ideal for anyone looking to enhance their understanding and use of Copilot Studio.
 
-Feel free to browse, download, and share [this collection](./with%20Copilot%20Studio/) as you expand your skills with Copilot Studio.
+Feel free to browse, download, and share [January](./2024-january/) and [December](./2024-december/) collections as you expand your skills with Copilot Studio.
 
 Happy learning! 🚀
 
